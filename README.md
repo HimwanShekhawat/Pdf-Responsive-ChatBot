@@ -1,2 +1,2 @@
-# Chatbot-using-Lamini-T5-738M
+# Chatbot-using-Lamini-T5-61M
 Internship Project
